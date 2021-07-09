@@ -1,0 +1,4 @@
+Sobre:
+Um registro é uma estrutura que fornece um formato especializado para armazenar informações em memória.
+Um registro é composto por campos que especificam cada uma das informações que o compõem.
+Toda estrutura de registro tem um nome (ex: livro), e seus campos podem ser acessados por meio do uso do operador ponto (.). Por exemplo, para acessar o preço de um livro, poderíamos usar a seguinte declaração: livro.preco
